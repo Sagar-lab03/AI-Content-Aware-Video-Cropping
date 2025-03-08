@@ -41,7 +41,7 @@ cd content-aware-video-cropping
 
 2. Install dependencies:
 ```bash
-pip install ultralytics opencv-python numpy torch matplotlib
+pip install -r requirement.txt
 ```
 
 ## Project Evolution

@@ -36,7 +36,6 @@ This project implements a content-aware video cropping system that uses computer
 1. Clone this repository:
 ```bash
 git clone https://github.com/yourusername/content-aware-video-cropping.git
-cd content-aware-video-cropping
 ```
 
 2. Install dependencies:

@@ -2,7 +2,7 @@
 
 An intelligent system that automatically converts landscape videos to portrait format (9:16) while keeping the most important subjects in frame.
 
-![Project Banner](video_cropped.png)
+![Project Banner](img.png)
 
 ## Overview
 
